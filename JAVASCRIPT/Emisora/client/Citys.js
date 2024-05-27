@@ -1,0 +1,22 @@
+export const ciudadesPrincipalesColombia = [
+    'Bogotá',
+    'Medellín',
+    'Cali',
+    'Barranquilla',
+    'Cartagena',
+    'Bucaramanga',
+    'Cúcuta',
+    'Pereira',
+    'Ibagué',
+    'Soledad',
+    'Villavicencio',
+    'Pasto',
+    'Santa Marta',
+    'Valledupar',
+    'Manizales',
+    'Montería',
+    'Neiva',
+    'Riohacha',
+    'Armenia',
+    'Popayán'
+  ];
